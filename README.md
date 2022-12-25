@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GokuUu007
+- 👋 Hi, I’m S.A.M
 - 👀 I’m interested in competetive coding!
 - 🌱 I’m currently learning c++ and I have learned java previously.
 - 📫 contact - madhavanakshat02@gmail.com / insta - @akshxt_sighs .
